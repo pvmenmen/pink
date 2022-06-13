@@ -1,1 +1,1 @@
-# pink
+# pink is my small project
